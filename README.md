@@ -123,9 +123,6 @@
 	
 </p>
 	
-* If you  want to leave any comments just do it in Issues Category
-	    
-<br>
 
-* Credit: <p href="https://github.com/Sheazywi/" > Sheazywi </p>
+* Credit: Sheazywi
 * Last Edited on: 08/01/2023
