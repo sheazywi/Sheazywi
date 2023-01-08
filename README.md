@@ -85,6 +85,17 @@
     <a href="#"><img alt=".Net" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
 </p>
+	    
+### 👉 Specs
+<p>
+  &emsp;
+	<a href="#"><img alt="CPU" src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=flat&logo=amd&logoColor=white"></a>
+  &emsp;
+	<a href="#"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=flat&logo=nvidia&logoColor=white"></a>
+  &emsp;
+	<a href="#"><img alt="OS" src="https://img.shields.io/badge/Windows-Custom PC-0078D6?style=flat&logo=windows&logoColor=white"></a>
+	
+</p>
 
 <br/>
 
