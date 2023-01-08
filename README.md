@@ -126,14 +126,6 @@
 <table>
 <tr>
 <td>
-Like me!
-
-[<a href="https://github.com/Sheazywi/Sheazywi/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
-
-<sub><b><i>Like counter: 21</i></b></sub>
-
-<hr size=15px color="ff5733" width=70%>
-
 Like me, and unlike me!
 
 [<a href="https://github.com/Sheazywi/Sheazywi/issues/new?assignees=&labels=like-mutable&template=like-mutable.yaml&title=Add+new+like%21+%28mutable%29">👍</a>]
