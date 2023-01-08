@@ -132,5 +132,5 @@ Like me, and unlike me!
 [<a href="https://github.com/Sheazywi/Sheazywi/issues/new?assignees=&labels=unlike-mutable&template=unlike-mutable.yml&title=I+want+to+Unlike%21">👎</a>]
 
 </table>
-* Credit: [Sheazywi](https://github.com/Sheazywi)
+* Credit: Sheazywi
 * Last Edited on: 08/01/2023
