@@ -122,15 +122,10 @@
 	<a href="https://www.youtube.com/channel/UClzcUfRY_Hz0FNzDAX_VP9g"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
+	
+* If you  want to leave any comments just do it in Issues Category
 	    
-<table>
-<tr>
-<td>
-Like me, and unlike me!
+<br>
 
-[<a href="https://github.com/Sheazywi/Sheazywi/issues/new?assignees=&labels=like-mutable&template=like-mutable.yaml&title=Add+new+like%21+%28mutable%29">👍</a>]
-[<a href="https://github.com/Sheazywi/Sheazywi/issues/new?assignees=&labels=unlike-mutable&template=unlike-mutable.yml&title=I+want+to+Unlike%21">👎</a>]
-
-</table>
 * Credit: <p href="https://github.com/Sheazywi/" > Sheazywi </p>
 * Last Edited on: 08/01/2023
