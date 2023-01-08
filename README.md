@@ -131,9 +131,7 @@ Like me, and unlike me!
 [<a href="https://github.com/Sheazywi/Sheazywi/issues/new?assignees=&labels=like-mutable&template=like-mutable.yaml&title=Add+new+like%21+%28mutable%29">👍</a>]
 [<a href="https://github.com/Sheazywi/Sheazywi/issues/new?assignees=&labels=unlike-mutable&template=unlike-mutable.yml&title=I+want+to+Unlike%21">👎</a>]
 
-<sub><b><i>Like counter: 5</i></b></sub>
-
 <hr/>
-
+</table>
 * Credit: [Sheazywi](https://github.com/Sheazywi)
 * Last Edited on: 08/01/2023
