@@ -89,11 +89,11 @@
 ### 👉 Specs
 <p>
   &emsp;
-	<a href="https://www.amd.com/fr/products/cpu/amd-ryzen-7-5800x"><img alt="CPU" src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=flat&logo=amd&logoColor=white"></a>
+	<a href="https://www.amd.com/fr/products/cpu/amd-ryzen-9-5950x"><img alt="CPU" src="https://img.shields.io/badge/AMD-Ryzen_9_5950X-ED1C24?style=flat&logo=amd&logoColor=white"></a>
   &emsp;
-	<a href="https://www.evga.com/products/product.aspx?pn=06G-P4-1067-KR"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=flat&logo=nvidia&logoColor=white"></a>
+	<a href="https://www.evga.com/products/product.aspx?pn=06G-P4-1067-KR"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA-GTX3070Ti-76B900?style=flat&logo=nvidia&logoColor=white"></a>
   &emsp;
-	<a href="#"><img alt="OS" src="https://img.shields.io/badge/Windows-Custom PC-0078D6?style=flat&logo=windows&logoColor=white"></a>
+	<a href="https://www.microsoft.com/fr-ca/software-download/windows10ISO"><img alt="OS" src="https://img.shields.io/badge/Windows-Custom PC-0078D6?style=flat&logo=windows&logoColor=white"></a>
 	
 </p>
 
