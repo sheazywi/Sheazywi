@@ -28,6 +28,10 @@
   <a href="https://www.lua.org" target="_blank">
     <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://cplusplus.com/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Frontend Development
@@ -84,6 +88,8 @@
   &emsp;
     <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"></a>
   &emsp;
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
+  &emsp;
 </p>
 	    
 ### 👉 Specs
@@ -91,10 +97,11 @@
   &emsp;
 	<a href="https://www.amd.com/fr/products/cpu/amd-ryzen-9-5950x"><img alt="CPU" src="https://img.shields.io/badge/AMD-Ryzen_9_5950X-ED1C24?style=flat&logo=amd&logoColor=white"></a>
   &emsp;
-	<a href="https://www.evga.com/products/product.aspx?pn=06G-P4-1067-KR"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA-GTX3070Ti-76B900?style=flat&logo=nvidia&logoColor=white"></a>
+	<a href="https://www.evga.com/products/product.aspx?pn=06G-P4-1067-KR"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=flat&logo=nvidia&logoColor=white"></a>
   &emsp;
 	<a href="https://www.microsoft.com/fr-ca/software-download/windows10ISO"><img alt="OS" src="https://img.shields.io/badge/Windows-Custom PC-0078D6?style=flat&logo=windows&logoColor=white"></a>
-	
+
+ 
 </p>
 
 <br/>
@@ -125,4 +132,4 @@
 	
 
 * Credit: Sheazywi
-* Last Edited on: 08/01/2023
+* Last Edited on: 31/08/2023
