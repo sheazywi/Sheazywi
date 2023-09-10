@@ -79,17 +79,17 @@
  
 <p>
   &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="https://www.adobe.com/"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+    <a href="https://www.linux.org/pages/download/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://code.visualstudio.com"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"></a>
+    <a href="https://dotnet.microsoft.com/en-us/"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"></a>
+    <a href="https://unity.com"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white"></a>
   &emsp;
 </p>
 	    
@@ -98,9 +98,9 @@
   &emsp;
 	<a href="https://www.amd.com/fr/products/cpu/amd-ryzen-9-5950x"><img alt="CPU" src="https://img.shields.io/badge/AMD-Ryzen_9_5950X-ED1C24?style=flat&logo=amd&logoColor=white"></a>
   &emsp;
-	<a href="https://www.evga.com/products/product.aspx?pn=06G-P4-1067-KR"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=flat&logo=nvidia&logoColor=white"></a>
+	<a href="https://www.gigabyte.com/Graphics-Card/GV-N3080VISION-OC-10GD-rev-10#kf"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=flat&logo=nvidia&logoColor=white"></a>
   &emsp;
-	<a href="https://www.microsoft.com/fr-ca/software-download/windows10ISO"><img alt="OS" src="https://img.shields.io/badge/Windows-Custom PC-0078D6?style=flat&logo=windows&logoColor=white"></a>
+	<a href="https://www.microsoft.com/fr-ca/software-download/windows11ISO"><img alt="OS" src="https://img.shields.io/badge/Windows-Custom PC-0078D6?style=flat&logo=windows&logoColor=white"></a>
 
  
 </p>
