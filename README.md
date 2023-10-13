@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a computer science student at Polyvalente de l'Érablière. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">Hey, I'm a Computer Science student at Polyvalente de l'Érablière. I thrive on coding, designing, innovating, and experimenting. With an unyielding enthusiasm and sociable nature, I embrace new challenges and continuously cultivate fresh skills. Connecting with people, sharing ideas, and fostering a culture of learning and optimism is what I love most.</h4>
 <br>
 
 ## 🛠️ My Skills
@@ -128,9 +128,10 @@
 	<a href="https://github.com/sheazywi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.twitch.tv/sheazy_wi"><img src="https://img.icons8.com/bubbles/50/000000/twitch.png" alt="Twitch"/></a>
 	<a href="https://www.youtube.com/channel/UClzcUfRY_Hz0FNzDAX_VP9g"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+ 	<a href="https://www.w3profile.com/Sheazywi"><img src="https://img.icons8.com/bubbles/50/000000/w3school.png" alt="W3School"/></a>
 	
 </p>
 	
 
 * Credit: Sheazywi
-* Last Edited on: 10/09/2023
+* Last Edited on: 13/10/2023
