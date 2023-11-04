@@ -33,6 +33,10 @@
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   </a>
   &emsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/Python-gray?style=plastic&logo=python">
+  </a>
+  &emsp;
 </p>
 
 ### 👉 Frontend Development
