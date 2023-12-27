@@ -111,7 +111,7 @@ src="https://img.shields.io/twitch/status/sheazy_wi?logo=twitchsx&style=for-the-
   &emsp;
 	<a href="https://www.amd.com/fr/products/cpu/amd-ryzen-9-5950x"><img alt="CPU" src="https://img.shields.io/badge/AMD-Ryzen_9_5950X-ED1C24?style=flat&logo=amd&logoColor=white"></a>
   &emsp;
-	<a href="https://www.gigabyte.com/Graphics-Card/GV-N3080VISION-OC-10GD-rev-10#kf"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=flat&logo=nvidia&logoColor=white"></a>
+	<a href="https://www.techpowerup.com/gpu-specs/gigabyte-rtx-4070-ti-aero-oc.b10274"><img alt="GPU" src="https://img.shields.io/badge/NVIDIA-RTX4070-Ti-76B900?style=flat&logo=nvidia&logoColor=white"></a>
   &emsp;
 	<a href="https://www.microsoft.com/fr-ca/software-download/windows11ISO"><img alt="OS" src="https://img.shields.io/badge/Windows-Custom PC-0078D6?style=flat&logo=windows&logoColor=white"></a>
 
