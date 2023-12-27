@@ -11,7 +11,7 @@ I've been learning to code for 4 years, after switching passion. I started with 
 *   🚀  I'm currently working on [StarBounded.](http://starbounded.com)
 *   🧠  I'm learning NextJS, Luau and C++.
 *   🤝  I'm open to collaborating on many projects. I'm open to proposition.
-*   <a href="https://www.twitch.tv/sheazy_wi" target="_blank" rel="noreferrer">
+   <a href="https://www.twitch.tv/sheazy_wi" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitch/status/sheazy_wi?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=27272a&label=TWITCH+STATUS" /></a>
 ### Skills 
 <p align="left">
