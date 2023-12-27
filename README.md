@@ -1,11 +1,20 @@
 
-<h1 align="center">Hi , I'm Pier-Olivier Boulianne <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">Hey, I'm a Computer Science student at Polyvalente de l'Érablière. I thrive on coding, designing, innovating, and experimenting. With an unyielding enthusiasm and sociable nature, I embrace new challenges and continuously cultivate fresh skills. Connecting with people, sharing ideas, and fostering a culture of learning and optimism is what I love most.</h4>
-<br>
+Hi 👋 My name is Pier-Olivier Boulianne
+=======================================
+
+Game/Web Developper and 3D Designer
+-----------------------------------
+
+I've been learning to code for 4 years, after switching passion. I started with Luau, but have really found a passion for game development and server related stuff.
+
+* 🌍  I'm based in Quebec, Canada.
+* ✉️  You can contact me at [sheazywi@gmail.com](mailto:sheazywi@gmail.com)
+* 🚀  I'm currently working on [StarBounded.](http://starbounded.com)
+* 🧠  I'm learning NextJS, Luau and C++.
+* 🤝  I'm open to collaborating on many projects. I'm open to proposition.
+
+<a href="https://www.twitch.tv/sheazy_wi" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/sheazy_wi?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=27272a&label=TWITCH+STATUS" /></a>
 
 ## 🛠️ My Skills
 
