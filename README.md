@@ -80,7 +80,7 @@ I've been learning to code for 4 years, after switching passion. I started with 
                     </a>
                       <a href="https://www.twitch.tv/sheazy_wi" target="_blank" rel="noreferrer">
                     <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
                     </picture>
