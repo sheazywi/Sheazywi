@@ -13,5 +13,8 @@ I've been learning to code for 4 years, after switching passion. I started with 
 *   🤝  I'm open to collaborating on projects. I'm open to proposition.
 *   🙌  I'm also apart of the Github Student Program.
 *   🪨  I also have minor projects on [Modrinth](https://modrinth.com/user/Sheazywi).
+*   ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@sheazywi/30-nites-of-code)  
+  ![@sheazywi #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sheazywi)
    <a href="https://www.twitch.tv/sheazy_wi" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitch/status/sheazy_wi?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=27272a&label=TWITCH+STATUS" /></a>
