@@ -14,4 +14,4 @@ I've been learning to code for 4 years, after switching passion. I started with 
 *   🙌  I'm also apart of the Github Student Program.
 *   🪨  I also have minor projects on [Modrinth](https://modrinth.com/user/Sheazywi).
    <a href="https://www.twitch.tv/sheazy_wi" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitch/status/sheazy_wi?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=27272a&label=TWITCH+STATUS" /></a>
+<img src="https://img.shields.io/twitch/status/sheazywi?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=27272a&label=TWITCH+STATUS" /></a>
