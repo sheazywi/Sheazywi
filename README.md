@@ -8,8 +8,8 @@ I've been learning to code for 4 years, after switching passion. I started with 
 
 *   🌍  I'm based in Quebec, Canada.
 *   ✉️  You can contact me at [sheazywi@gmail.com](mailto:sheazywi@gmail.com)
-*   🚀  I'm currently working on [Starbounded.](https://starbounded.me)
-*   🧠  I'm currently learning Java, C#, Python and other weird stuff. I happen to know Luau, majority of Javascript and some of the classic front-end web.
+*   🚀  I'm currently working on [SlashProxy.](https://github.com/sheazywi/slashproxy)
+*   🧠  I'm currently learning Java(and kotlin), C#, Python and other weird stuff. I happen to know Luau, majority of Javascript and some of the classic front-end web trio.
 *   🤝  I'm open to collaborating on projects. I'm open to proposition.
 *   🙌  I'm also apart of the Github Student Program.
 *   🪨  I also have minor projects on [Modrinth](https://modrinth.com/user/Sheazywi).
