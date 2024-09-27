@@ -7,7 +7,7 @@ Software Engineer and 3D Designer
 I've been learning to code for 4 years, after switching passion. I started with Luau, but have really found a passion for game development and server related stuff.
 
 *   🌍  I'm based in Quebec, Canada.
-*   ✉️  You can contact me at [sheazywi@gmail.com](mailto:sheazywi@gmail.com)
+*   ✉️  You can contact me at [sheazywi@gmail.com](mailto:sheazywi@starbounded.me)
 *   🚀  I'm currently working on [Starbounded Launcher.](https://github.com/starbounded-dev/starbounded-launcher)
 *   🧠  I'm currently learning Java(and kotlin), C#, Python and other weird stuff. I happen to know Luau, majority of Javascript and some of the classic front-end web trio.
 *   🤝  I'm open to collaborating on projects. I'm open to proposition.
