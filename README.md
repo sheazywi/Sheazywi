@@ -1,18 +1,48 @@
-Hi 👋 My name is Pier-Olivier Boulianne
-=======================================
+<img align="right" width="400" src="bubbles.webp">
 
-Software Engineer and 3D Designer
------------------------------------
+# Hi there, I'm Pier-Olivier Boulianne 👋
 
-I've been learning to code for 4 years, after switching passion. I started with Luau, but have really found a passion for game development and server related stuff.
+I've been learning to code for 4 years, after switching passion. 
+I started with Luau, but have really found a passion for game development and server related stuff.
 
-*   🌍  I'm based in Quebec, Canada.
-*   ✉️  You can contact me at [sheazywi@starbounded.me](mailto:sheazywi@starbounded.me)
-*   🚀  I'm currently working on [StarEngine.](https://github.com/starbounded-dev/starengine)
-*   🧠  I'm currently learning C++, while working on a C++ project.
-*   🤝  I'm open to collaborating on projects. I'm open to proposition.
-*   🙌  I'm also apart of the Github Student Program.
-*   🪨  I also have minor projects on [Modrinth](https://modrinth.com/user/Sheazywi).
-   <a href="https://www.twitch.tv/sheazywi" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/twitch/status/sheazywi?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=27272a&label=TWITCH+STATUS" />
-   </a>
+## About Me
+
+- 🔭 I’m currently working on StarEngine a game engine.
+- 🌱 I’m currently learning about C++ and C#
+- 🤔 I’m looking for help with graphics api.
+- 📫 How to reach me: sheazywi@starbounded.studio
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I started programming when I was 11
+
+## Skills (From best to worst)
+
+### Programming Languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,cs,java)](https://skillicons.dev)
+
+### Frameworks & Libraries
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nextjs,discordjs)](https://skillicons.dev)
+
+### Game Development
+
+[![My Skills](https://skillicons.dev/icons?i=robloxstudio,unity)](https://skillicons.dev)
+
+### Tools & Platforms
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,cloudflare,githubactions,arch,vscode,visualstudio,windows)](https://skillicons.dev)
+
+## Projects
+
+Here are some of my notable project:
+
+- [StarEngine](https://github.com/starbounded-dev/starengine): Open-Sourced
+  game engine written in C++.
+<!--## My socials-->
+
+## Git Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=sheazywi)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=sheazywi&style=flat-square&color=green)
+
+**Thanks for visiting my profile!**
