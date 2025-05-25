@@ -2,7 +2,7 @@
 
 # Hi there, I'm Pier-Olivier Boulianne 👋
 
-I've been learning to code for 4 years, after switching passion. 
+I've been learning to code for many years, after switching passion, 
 I started with Luau, but have really found a passion for game development and server related stuff.
 
 ## About Me
