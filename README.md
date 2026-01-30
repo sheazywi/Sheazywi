@@ -7,7 +7,7 @@ I started with Luau, but have really found a passion for game development and se
 
 ## About Me
 
-- 🔭 I’m currently working on StarEngine a game engine.
+- 🔭 I’m currently working on Lux
 - 🌱 I’m currently learning about C++ and C#
 - 🤔 I’m looking for help with graphics api.
 - 📫 How to reach me: sheazywi@starbounded.com
