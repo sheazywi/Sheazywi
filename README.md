@@ -1,34 +1,27 @@
-# Pier-Olivier Boulianne
-
-Thanks for visiting my profile! I build engines and developer tooling in the open
-at [Starbounded](https://github.com/starbounded-dev), near Quebec City.
-
-<table width="100%" border="0">
-  <tr>
-    <td valign="top" align="left" width="64%">
-      <b>who I am</b><br>
-      Pier-Olivier Boulianne · Quebec, Canada<br>
-      <a href="https://github.com/starbounded-dev">@starbounded-dev</a> · <a href="https://starbounded.com">starbounded.com</a><br>
-      joined <sub>October 2020</sub> · he/him<br>
-      started programming at 11, first language Luau on Roblox<br>
-      22 repos · 1 gist · 7 followers
-    </td>
-    <td valign="top" align="right" width="36%">
-      <a href="https://starbounded.com">starbounded.com</a><br>
-      <a href="https://twitter.com/sheazywi">@sheazywi</a>
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sheazywi/Sheazywi/main/assets/aurora-veil.svg" alt="Pier-Olivier Boulianne — engines and developer tooling built in the open at Starbounded" width="100%" />
 </p>
 
+
 <table align="center" width="80%" border="0">
   <tr>
     <td valign="top" align="left">
+
+### currently
+{{currently_paragraph}}
+
+### writing
+{{writing_paragraph}}
+
+    </td>
+    <td valign="top" align="right" width="36%">
+      <em>"{{epigraph}}"</em><br>
+      <sub>— {{epigraph_attribution}}</sub><br><br>
+      <a href="{{website_url}}">{{website}}</a><br>
+      <a href="https://twitter.com/{{twitter}}">@{{twitter}}</a>
+    </td>
+  </tr>
+</table>
 
 ### currently
 
