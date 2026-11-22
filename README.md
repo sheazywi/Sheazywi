@@ -1,27 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sheazywi/Sheazywi/main/assets/aurora-veil.svg" alt="Pier-Olivier Boulianne — engines and developer tooling built in the open at Starbounded" width="100%" />
+  <img src="https://raw.githubusercontent.com/sheazywi/Sheazywi/main/assets/aurora-veil.svg" alt="Pier-Olivier Boulianne — engines and developer tooling" width="100%" />
 </p>
 
-
-<table align="center" width="80%" border="0">
-  <tr>
-    <td valign="top" align="left">
-
-### currently
-{{currently_paragraph}}
-
-### writing
-{{writing_paragraph}}
-
-    </td>
-    <td valign="top" align="right" width="36%">
-      <em>"{{epigraph}}"</em><br>
-      <sub>— {{epigraph_attribution}}</sub><br><br>
-      <a href="{{website_url}}">{{website}}</a><br>
-      <a href="https://twitter.com/{{twitter}}">@{{twitter}}</a>
-    </td>
-  </tr>
-</table>
 
 ### currently
 
