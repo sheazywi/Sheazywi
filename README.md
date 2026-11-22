@@ -11,15 +11,8 @@ The C++20 Vulkan engine at [Starbounded](https://github.com/starbounded-dev), tw
 
 Notes and posts at [starbounded.com](https://starbounded.com), [getting-started docs](https://www.starbounded.com/docs/getting-started.html) are live.
 
-    </td>
-    <td valign="top" align="right" width="36%">
-      <em>"a thick bed really does mean a lot happened"</em><br>
-      <sub>— the core sample</sub><br><br>
-      <a href="https://starbounded.com">starbounded.com</a><br>
-      <a href="https://twitter.com/sheazywi">@sheazywi</a>
-    </td>
-  </tr>
-</table>
+> *"a thick bed really does mean a lot happened"*
+> — the core sample
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sheazywi/Sheazywi/main/assets/strata-core.svg" alt="Pier-Olivier Boulianne — six years of commits as a drilled core sample, 1,258 commits counted on the nine repos I own plus LuxEngine on its dev branch" width="100%" />
@@ -37,22 +30,9 @@ Commit counts below are commits authored by me across the nine repos I own plus 
 
 2026: three runner tools in one day: [actions-runner-console](https://github.com/sheazywi/actions-runner-console) for self-hosted runner fleets, [pi-watchdog](https://github.com/sheazywi/pi-watchdog) keeping a physical eye on the CI VMs they run, and a GTA crew emblem tracer. LuxEngine got the hlb HZB occlusion fix, the tile-grid render-graph viewport, two sample games, and versioned the project format. 910 commits.
 
-### deepest layers
-
-- **LuxEngine** — C++20 Vulkan engine. Two people, one engine: hlb on occlusion, me on the rest. Apache-2.0.
-- **actions-runner-console** — dashboard for self-hosted GitHub Actions runners, so a runner fleet runs like the CI I'm replacing.
-
-— [starbounded.com](https://starbounded.com) · [@sheazywi](https://twitter.com/sheazywi)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sheazywi/Sheazywi/main/assets/oss-maintainer.svg" alt="Pier-Olivier Boulianne — three projects maintained: LuxEngine, actions-runner-console, pi-watchdog" width="100%" />
 </p>
-
-### how to contribute
-
-Come from a repro: platform, expected vs actual, the log output, and a fix if you have one. Repro-first matters because Vulkan validation layers and driver behaviour sit at the bottom of the stack. Branches follow `feature/<thing>` and merge into `dev`; I review on the machine, five to ten minutes per commit, so push small and land the diff clean.
-
-Start with a [good first issue](https://github.com/starbounded-dev/LuxEngine/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) — the label is live, nothing is tagged on it yet. Read [CODE_OF_CONDUCT.md](https://github.com/starbounded-dev/LuxEngine/blob/dev/CODE_OF_CONDUCT.md) first, it is short; CONTRIBUTING.md isn't in the repo yet.
 
 ### what I maintain
 
@@ -60,7 +40,11 @@ Start with a [good first issue](https://github.com/starbounded-dev/LuxEngine/iss
 - **actions-runner-console** — the runner dashboard, MIT, 2 stars, issues all closed.
 - **pi-watchdog** — the Raspberry Pi keeping an eye on the CI VMs, no license file yet, 1 star.
 
-— [starbounded.com](https://starbounded.com) · [@sheazywi](https://twitter.com/sheazywi)
+### how to contribute
+
+Come from a repro: platform, expected vs actual, the log output, and a fix if you have one. Repro-first matters because Vulkan validation layers and driver behaviour sit at the bottom of the stack. Branches follow `feature/<thing>` and merge into `dev`; I review on the machine, five to ten minutes per commit, so push small and land the diff clean.
+
+Start with a [good first issue](https://github.com/starbounded-dev/LuxEngine/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) — the label is live, nothing is tagged on it yet. Read [CODE_OF_CONDUCT.md](https://github.com/starbounded-dev/LuxEngine/blob/dev/CODE_OF_CONDUCT.md) first, it is short; CONTRIBUTING.md isn't in the repo yet.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheazywi/sheazywi/output/snake-dark.svg" />
