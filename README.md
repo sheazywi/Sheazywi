@@ -1,1 +1,86 @@
-IVtTdHJhdGEgY29yZSBiYW5uZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9TaGVhenl3aS9TaGVhenl3aS9yYXcvbWFpbi9hc3NldHMvc3RyYXRhLWNvcmUuc3ZnKQoKIyBQaWVyLU9saXZpZXIgQm91bGlhbm5lIOKAlCB0aGUgbG9nCgpJJ20gYnVpbGRpbmcgTHV4RW5naW5lOiBhIEMrKzIwIGdhbWUgZW5naW5lIG9uIFZ1bGthbiwgV2luZG93cyBhbmQgTGludXgsIHRoYXQgSQp3b3JrIG9uIGluIHRoZSBvcGVuLiBNb3N0IG9mIG15IHNvdXJjZSBpcyBDKysgYmVjYXVzZSB0aGUgZW5naW5lIGlzIHRoZSBwcm9qZWN0IEknbQpzdGlsbCBpbnNpZGUg4oCUIHRoZSByZXN0IGlzIHRoZSB0b29saW5nIGFyb3VuZCBpdC4gU3RhcnRlZCBwcm9ncmFtbWluZyBhdCBlbGV2ZW4sIGluCkx1YXUgb24gUm9ibG94OyB3aGF0IEkgd3JpdGUgdG9kYXkgaXMgQysrIGFuZCBWdWxrYW4sIGJ1dCB0aGUgY2FyZWVyIGRpZG4ndCBzdGFydAp0aGVyZS4KCiMjIyBUaGUgZGVlcGVzdCBsYXllcnMKCi0gKipbTHV4RW5naW5lXShodHRwczovL2dpdGh1Yi5jb20vc3RhcmJvdW5kZWQtZGV2L0x1eEVuZ2luZSkqKiDigJQgQysrMjAgZ2FtZSBlbmdpbmUgb24gVnVsa2FuOiBkZWZlcnJlZCBjbHVzdGVyZWQgUEJSLCBhIHJlbmRlciBncmFwaCB0aGF0IHNraXBzIGRpc2FibGVkIHBhc3NlcywgbWluaWF1ZGlvLWJhc2VkIHNwYXRpYWwgYXVkaW8sIEpvbHQgM0QgcGh5c2ljcyBhbmQgQm94MkQgMkQsIEMjIHNjcmlwdHMgb24gLk5FVCAxMCB3aXRoIGhvdCByZWxvYWQuCi0gKipbY3Jldy1lbWJsZW0tdHJhY2VyXShodHRwczovL2dpdGh1Yi5jb20vc2hlYXp5d2kvY3Jldy1lbWJsZW0tdHJhY2VyKSoqIOKAlCB0cmFjZXMgYW55IGltYWdlIGludG8gYSBHVEEgT25saW5lIGNyZXcgZW1ibGVtIHlvdSBjYW4gaW1wb3J0IHN0cmFpZ2h0IGludG8gUm9ja3N0YXIncyBlbWJsZW0gZWRpdG9yLgotICoqW2FjdGlvbnMtcnVubmVyLWNvbnNvbGVdKGh0dHBzOi8vZ2l0aHViLmNvbS9zaGVhenl3aS9hY3Rpb25zLXJ1bm5lci1jb25zb2xlKSoqIOKAlCBsb2NhbCBkYXNoYm9hcmQgZm9yIHRoZSBHaXRIdWIgQWN0aW9ucyBydW5uZXJzIGJlaGluZCBMdXhFbmdpbmUncyBDSSwgb24gTGludXggYW5kIFdpbmRvd3MuCi0gKipbcGktd2F0Y2hkb2ddKGh0dHBzOi8vZ2l0aHViLmNvbS9zaGVhenl3aS9waS13YXRjaGRvZykqKiDigJQgYSBSYXNwYmVycnkgUGkgM0IgdGhhdCBjaGVja3MgdGhlIHR3byBQcm94bW94IFZNcyBydW5uaW5nIHRob3NlIHJ1bm5lcnMgZXZlcnkgMzAgc2Vjb25kcyBhbmQgYWxlcnRzIHRocm91Z2ggSGVybWVzLgoKIyMjIFRoZSBjYXJlZXIgbG9nCgotICoqMjAyMCoqIOKAlCBqb2luZWQgR2l0SHViLCBPY3RvYmVyIDIwMjAg4oCUIHNpeCB5ZWFycyBub3cuCi0gKioyMDIzKiog4oCUIHN0YXJ0ZWQgYnVpbGRpbmcgaW4gdGhlIG9wZW4gYXMgQHN0YXJib3VuZGVkLWRldi4KLSAqKjIwMjQqKiDigJQgc2hlYXp5d2kuZ2l0aHViLmlvLCB0ZXN0LWRldiwgYXJjaGl2ZSBhbmQgT3BlbkdMM0QgYWxsIHdlbnQgdXAuCi0gKioyMDI1Kiog4oCUIHE1MTEsIGEgVml0ZSArIFJlYWN0ICsgVGFpbHdpbmQgc2xpZGVzaG93IHN0YXJ0ZXIgZm9yIFF1w6liZWMncyByb3V0ZSA1MTEuCi0gKioyMDI2Kiog4oCUIHRocmVlIG5ldyB0b29scyBmb3IgTHV4RW5naW5lJ3MgQ0kgYW5kIGEgYmF0Y2ggb2YgZW5naW5lIHdvcms6IEhaQiBvY2NsdXNpb24gZml4LCB0aWxlLWdyaWQgdmlld3BvcnQsIHNhbXBsZSBnYW1lcywgcHJvamVjdC1mb3JtYXQgdmVyc2lvbmluZy4KClN0YXJ0ZWQgcHJvZ3JhbW1pbmcgYXQgZWxldmVuLCBpbiBMdWF1LCBvbiBSb2Jsb3guIFdoYXQgSSB3cml0ZSB0b2RheSBpcyBDKysgYW5kIFZ1bGthbiwgYnV0IHRoZSBjYXJlZXIgZGlkbid0IHN0YXJ0IHRoZXJlLgoK4oCUIFtzdGFyYm91bmRlZC5jb21dKGh0dHBzOi8vc3RhcmJvdW5kZWQuY29tKSDCtyBbQHNoZWF6eXdpXShodHRwczovL3guY29tL3NoZWF6eXdpKQoKLS0tCgohW09TUyBtYWludGFpbmVyIGJhbm5lcl0oaHR0cHM6Ly9naXRodWIuY29tL1NoZWF6eXdpL1NoZWF6eXdpL3Jhdy9tYWluL2Fzc2V0cy9vc3MtbWFpbnRhaW5lci5zdmcpCgojIFdoYXQgSSBtYWludGFpbgoKfCBQcm9qZWN0IHwgU3RhY2sgfCBTdGF0ZSB8CnwgLS0tIHwgLS0tIHwgLS0tIHwKfCBbTHV4RW5naW5lXShodHRwczovL2dpdGh1Yi5jb20vc3RhcmJvdW5kZWQtZGV2L0x1eEVuZ2luZSkgfCBDKysyMCDCtyBWdWxrYW4gwrcgR0xTTCDCtyBDIyB8IEdQTC0zLjAgwrcgOTAgb3BlbiBpc3N1ZXMgfAp8IFtjcmV3LWVtYmxlbS10cmFjZXJdKGh0dHBzOi8vZ2l0aHViLmNvbS9zaGVhenl3aS9jcmV3LWVtYmxlbS10cmFjZXIpIHwgVHlwZVNjcmlwdCDCtyBDYW52YXMgfCBzbWFsbCBhbmQgZG9uZSBpbiB0aGUgb3BlbiB8CnwgW2FjdGlvbnMtcnVubmVyLWNvbnNvbGVdKGh0dHBzOi8vZ2l0aHViLmNvbS9zaGVhenl3aS9hY3Rpb25zLXJ1bm5lci1jb25zb2xlKSB8IFB5dGhvbiDCtyBQb3dlclNoZWxsIMK3IFNoZWxsIHwgMuKYhSDCtyBMaW51eCArIFdpbmRvd3MgcnVubmVycyB8CnwgW3BpLXdhdGNoZG9nXShodHRwczovL2dpdGh1Yi5jb20vc2hlYXp5d2kvcGktd2F0Y2hkb2cpIHwgUHl0aG9uIMK3IHN5c3RlbWQgfCBtb25pdG9ycyB0d28gVk1zIGV2ZXJ5IDMwIHMgfAp8IFtxNTExXShodHRwczovL2dpdGh1Yi5jb20vc2hlYXp5d2kvcTUxMSkgfCBWaXRlIMK3IFJlYWN0IMK3IFRhaWx3aW5kIHwgc2xpZGVzaG93IHN0YXJ0ZXIgfAoKIyMjIEhvdyB0byBjb250cmlidXRlCgoxLiBQaWNrIGFueSBvcGVuIGlzc3VlIG9uIFtMdXhFbmdpbmVdKGh0dHBzOi8vZ2l0aHViLmNvbS9zdGFyYm91bmRlZC1kZXYvTHV4RW5naW5lL2lzc3Vlcykg4oCUIHRoYXQgdHJhY2tlciBpcyB3aGVyZSB0aGUgZW5naW5lJ3MgbmV4dCB3b3JrIGlzLgoyLiBXb3JrIG9uIGEgYnJhbmNoIG5hbWVkIGBmZWF0dXJlLzx0aGluZz5gLCB3aGljaCBpcyB3aGF0IHRoZSByZXBvJ3Mgb3duIHdvcmtmbG93IHVzZXMuCjMuIEtlZXAgY29tbWl0cyBjb21waWxpbmc6IEx1eEVuZ2luZSBpcyBDKysyMCBvbiBWdWxrYW4sIHNvIGJ1aWxkIGl0IG9uIFdpbmRvd3Mgb3IgTGludXggYmVmb3JlIG9wZW5pbmcgYSBQUi4KNC4gUFJzIHRvIEx1eEVuZ2luZSBmYWxsIHVuZGVyIGl0cyBHUEwtMy4wIGxpY2VuY2UsIHNvIHJlYWQgaXQgYmVmb3JlIHlvdSBjb21taXQgY29kZS4KClF1ZXN0aW9ucyBhYm91dCB0aGUgZW5naW5lIGdvIG9uIEx1eEVuZ2luZSdzIGlzc3VlIHRyYWNrZXI7IGV2ZXJ5dGhpbmcgZWxzZSwgZW1haWwgbWUgYXQgW3NoZWF6eXdpQHN0YXJib3VuZGVkLmNvbV0obWFpbHRvOnNoZWF6eXdpQHN0YXJib3VuZGVkLmNvbSkuCgotLS0KCiFbQXVyb3JhIHZlaWwgYmFubmVyXShodHRwczovL2dpdGh1Yi5jb20vU2hlYXp5d2kvU2hlYXp5d2kvcmF3L21haW4vYXNzZXRzL2F1cm9yYS12ZWlsLnN2ZykKCnwgVGhlIGVuZ2luZSB8IEFyb3VuZCB0aGUgZW5naW5lIHwKfCAtLS0gfCAtLS0gfAp8IERlZmVycmVkIGNsdXN0ZXJlZCBQQlIgb24gVnVsa2FuLCBXaW5kb3dzIGFuZCBMaW51eCB8IGFjdGlvbnMtcnVubmVyLWNvbnNvbGUgd2F0Y2hlcyB0aGUgQ0kgcnVubmVycyBmcm9tIGEgbG9jYWwgZGFzaGJvYXJkIHwKfCBBIHJlbmRlciBncmFwaCB0aGF0IHNraXBzIGRpc2FibGVkIHBhc3Nlcywgc28gdGhlIGZyYW1lIHlvdSBkb24ndCBkcmF3IGNvc3RzIG5vdGhpbmcgfCBwaS13YXRjaGRvZyBndWFyZHMgdGhlIFByb3htb3ggVk1zIHRoYXQgaG9zdCB0aG9zZSBydW5uZXJzLCBhbGVydGluZyBldmVyeSAzMCBzIHRocm91Z2ggSGVybWVzIHwKfCBtaW5pYXVkaW8tYmFzZWQgc3BhdGlhbCBhdWRpbyDigJQgIlNvdW5kd2F2ZSIgYWNvdXN0aWNzIHwgY3Jldy1lbWJsZW0tdHJhY2VyIHR1cm5zIGFueSBpbWFnZSBpbnRvIGEgR1RBIE9ubGluZSBjcmV3IGVtYmxlbSB8CnwgSm9sdCAzRCBwaHlzaWNzIGFuZCBCb3gyRCAyRCB8IHE1MTEsIGEgVml0ZSArIFJlYWN0ICsgVGFpbHdpbmQgc2xpZGVzaG93IHN0YXJ0ZXIgZm9yIFF1w6liZWMncyByb3V0ZSA1MTEgfAp8IEMjIHNjcmlwdHMgb24gLk5FVCAxMCB3aXRoIGhvdCByZWxvYWQgfCB0aGlzIHByb2ZpbGUgcmVwbywgdW5kZXIgQ0MwLCBoYW5kLWRyYXduIFNWR3MgYW5kIGFsbCB8Cgo+IEJ1aWxkaW5nIGluIHRoZSBvcGVuIHNpbmNlIDIwMjMg4oCUIHRoZSBSRUFETUUgeW91J3JlIHJlYWRpbmcgaXMgdGhlIGRlZXBlc3QgbGF5ZXIuCgotLS0KCiFbVm9yb25vaSB0ZXJyaXRvcnkgYmFubmVyXShodHRwczovL2dpdGh1Yi5jb20vU2hlYXp5d2kvU2hlYXp5d2kvcmF3L21haW4vYXNzZXRzL3Zvcm9ub2ktdGVycml0b3J5LnN2ZykKCiMgVGhlIHRlcnJpdG9yeQoKOTA3LDc1OCBieXRlcyBvZiBzb3VyY2UgaW4gMTMgbGFuZ3VhZ2VzLCB0aGUgYmFubmVyJ3MgY2VsbHMgY3V0IGJ5IGV4YWN0IGFyZWEgc2hhcmU6CkMrKyA0Mi40OCUsIFR5cGVTY3JpcHQgMzIuOTYlLCBKYXZhU2NyaXB0IDkuMzUlLCBQeXRob24gNi4zMiUsIEhUTUwgKyBDU1MgMi43NSUsCkdMU0wgKyBMdWEgMi41NyUsIHNoZWxsIMK3IFBvd2VyU2hlbGwgwrcgQyDCtyBiYXQgMi4wNSUsIEMjIDEuNTIlLiBDKysgb3ducyB0aGUgbWFwCmJlY2F1c2UgTHV4RW5naW5lIGlzIHRoZSBlbmdpbmUgSSdtIHN0aWxsIHdvcmtpbmcgb247IFR5cGVTY3JpcHQgY29tZXMgc2Vjb25kIGZyb20KdGhlIHRvb2xzIHRoYXQgc3VwcG9ydCBpdC4KCiMjIyBXaGF0J3MgYnVpbHQgd2l0aCBpdAoKLSBbTHV4RW5naW5lXShodHRwczovL2dpdGh1Yi5jb20vc3RhcmJvdW5kZWQtZGV2L0x1eEVuZ2luZSkg4oCUIHRoZSBDKysyMCAvIFZ1bGthbiBlbmdpbmU6IHJlbmRlcmVyLCBhdWRpbywgZWRpdG9yLCBwaHlzaWNzLCBzY3JpcHRpbmcuCi0gW2NyZXctZW1ibGVtLXRyYWNlcl0oaHR0cHM6Ly9naXRodWIuY29tL3NoZWF6eXdpL2NyZXctZW1ibGVtLXRyYWNlcikg4oCUIFR5cGVTY3JpcHQsIHRoZSAyOTgga0IgdGhhdCBtYWtlcyB0aGUgc2Vjb25kIGNlbGwuCi0gW2FjdGlvbnMtcnVubmVyLWNvbnNvbGVdKGh0dHBzOi8vZ2l0aHViLmNvbS9zaGVhenl3aS9hY3Rpb25zLXJ1bm5lci1jb25zb2xlKSDigJQgUHl0aG9uIGFuZCBQb3dlclNoZWxsIGZvciB0aGUgc2VsZi1ob3N0ZWQgcnVubmVycy4KLSBbcGktd2F0Y2hkb2ddKGh0dHBzOi8vZ2l0aHViLmNvbS9zaGVhenl3aS9waS13YXRjaGRvZykg4oCUIFB5dGhvbiwgb25lIGNyb24gbG9vcC4KLSBbcTUxMV0oaHR0cHM6Ly9naXRodWIuY29tL3NoZWF6eXdpL3E1MTEpIOKAlCBUeXBlU2NyaXB0LCBWaXRlLCBSZWFjdCwgVGFpbHdpbmQuCi0gW09wZW5HTDNEXShodHRwczovL2dpdGh1Yi5jb20vc2hlYXp5d2kvT3BlbkdMM0QpIOKAlCBDKysgYWdhaW4sIHRoZSBzdGVwIGJlZm9yZSBWdWxrYW4uCg==
+![Strata core banner](https://github.com/Sheazywi/Sheazywi/raw/main/assets/strata-core.svg)
+
+# Pier-Olivier Boulianne — the log
+
+I'm building LuxEngine: a C++20 game engine on Vulkan, Windows and Linux, that I
+work on in the open. Most of my source is C++ because the engine is the project I'm
+still inside — the rest is the tooling around it. Started programming at eleven, in
+Luau on Roblox; what I write today is C++ and Vulkan, but the career didn't start
+there.
+
+### The deepest layers
+
+- **[LuxEngine](https://github.com/starbounded-dev/LuxEngine)** — C++20 game engine on Vulkan: deferred clustered PBR, a render graph that skips disabled passes, miniaudio-based spatial audio, Jolt 3D physics and Box2D 2D, C# scripts on .NET 10 with hot reload.
+- **[crew-emblem-tracer](https://github.com/sheazywi/crew-emblem-tracer)** — traces any image into a GTA Online crew emblem you can import straight into Rockstar's emblem editor.
+- **[actions-runner-console](https://github.com/sheazywi/actions-runner-console)** — local dashboard for the GitHub Actions runners behind LuxEngine's CI, on Linux and Windows.
+- **[pi-watchdog](https://github.com/sheazywi/pi-watchdog)** — a Raspberry Pi 3B that checks the two Proxmox VMs running those runners every 30 seconds and alerts through Hermes.
+
+### The career log
+
+- **2020** — joined GitHub, October 2020 — six years now.
+- **2023** — started building in the open as @starbounded-dev.
+- **2024** — sheazywi.github.io, test-dev, archive and OpenGL3D all went up.
+- **2025** — q511, a Vite + React + Tailwind slideshow starter for Québec's route 511.
+- **2026** — three new tools for LuxEngine's CI and a batch of engine work: HZB occlusion fix, tile-grid viewport, sample games, project-format versioning.
+
+Started programming at eleven, in Luau, on Roblox. What I write today is C++ and Vulkan, but the career didn't start there.
+
+— [starbounded.com](https://starbounded.com) · [@sheazywi](https://x.com/sheazywi)
+
+---
+
+![OSS maintainer banner](https://github.com/Sheazywi/Sheazywi/raw/main/assets/oss-maintainer.svg)
+
+# What I maintain
+
+| Project | Stack | State |
+| --- | --- | --- |
+| [LuxEngine](https://github.com/starbounded-dev/LuxEngine) | C++20 · Vulkan · GLSL · C# | GPL-3.0 · 90 open issues |
+| [crew-emblem-tracer](https://github.com/sheazywi/crew-emblem-tracer) | TypeScript · Canvas | small and done in the open |
+| [actions-runner-console](https://github.com/sheazywi/actions-runner-console) | Python · PowerShell · Shell | 2★ · Linux + Windows runners |
+| [pi-watchdog](https://github.com/sheazywi/pi-watchdog) | Python · systemd | monitors two VMs every 30 s |
+| [q511](https://github.com/sheazywi/q511) | Vite · React · Tailwind | slideshow starter |
+
+### How to contribute
+
+1. Pick any open issue on [LuxEngine](https://github.com/starbounded-dev/LuxEngine/issues) — that tracker is where the engine's next work is.
+2. Work on a branch named `feature/<thing>`, which is what the repo's own workflow uses.
+3. Keep commits compiling: LuxEngine is C++20 on Vulkan, so build it on Windows or Linux before opening a PR.
+4. PRs to LuxEngine fall under its GPL-3.0 licence, so read it before you commit code.
+
+Questions about the engine go on LuxEngine's issue tracker; everything else, email me at [sheazywi@starbounded.com](mailto:sheazywi@starbounded.com).
+
+---
+
+![Aurora veil banner](https://github.com/Sheazywi/Sheazywi/raw/main/assets/aurora-veil.svg)
+
+| The engine | Around the engine |
+| --- | --- |
+| Deferred clustered PBR on Vulkan, Windows and Linux | actions-runner-console watches the CI runners from a local dashboard |
+| A render graph that skips disabled passes, so the frame you don't draw costs nothing | pi-watchdog guards the Proxmox VMs that host those runners, alerting every 30 s through Hermes |
+| miniaudio-based spatial audio — "Soundwave" acoustics | crew-emblem-tracer turns any image into a GTA Online crew emblem |
+| Jolt 3D physics and Box2D 2D | q511, a Vite + React + Tailwind slideshow starter for Québec's route 511 |
+| C# scripts on .NET 10 with hot reload | this profile repo, under CC0, hand-drawn SVGs and all |
+
+> Building in the open since 2023 — the README you're reading is the deepest layer.
+
+---
+
+![Voronoi territory banner](https://github.com/Sheazywi/Sheazywi/raw/main/assets/voronoi-territory.svg)
+
+# The territory
+
+907,758 bytes of source in 13 languages, the banner's cells cut by exact area share:
+C++ 42.48%, TypeScript 32.96%, JavaScript 9.35%, Python 6.32%, HTML + CSS 2.75%,
+GLSL + Lua 2.57%, shell · PowerShell · C · bat 2.05%, C# 1.52%. C++ owns the map
+because LuxEngine is the engine I'm still working on; TypeScript comes second from
+the tools that support it.
+
+### What's built with it
+
+- [LuxEngine](https://github.com/starbounded-dev/LuxEngine) — the C++20 / Vulkan engine: renderer, audio, editor, physics, scripting.
+- [crew-emblem-tracer](https://github.com/sheazywi/crew-emblem-tracer) — TypeScript, the 298 kB that makes the second cell.
+- [actions-runner-console](https://github.com/sheazywi/actions-runner-console) — Python and PowerShell for the self-hosted runners.
+- [pi-watchdog](https://github.com/sheazywi/pi-watchdog) — Python, one cron loop.
+- [q511](https://github.com/sheazywi/q511) — TypeScript, Vite, React, Tailwind.
+- [OpenGL3D](https://github.com/sheazywi/OpenGL3D) — C++ again, the step before Vulkan.

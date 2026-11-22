@@ -1,1 +1,32 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNjAwIDQyMCIgd2lkdGg9IjE2MDAiIGhlaWdodD0iNDIwIiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IlR3by1jb2x1bW4gdGFibGUgYmFubmVyIGZvciB0aGUgbGFuZ3VhZ2VzIHNlY3Rpb24gb2YgbXkgR2l0SHViIHByb2ZpbGUiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJ2ZWlsIiB4MT0iMCIgeTE9IjAiIHgyPSIwLjMiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMDYwYjEyIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzA0MTEyMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYTEiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIwIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMmVlMDhhIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjM1IiBzdG9wLWNvbG9yPSIjMmVlMDhhIiBzdG9wLW9wYWNpdHk9IjAuNDIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIwLjciIHN0b3AtY29sb3I9IiMzYWE3ZmYiIHN0b3Atb3BhY2l0eT0iMC41Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzNhYTdmZiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJhMiIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjAiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM3YjRkZmYiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjAuNSIgc3RvcC1jb2xvcj0iIzJlZTA4YSIgc3RvcC1vcGFjaXR5PSIwLjI2Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzdiNGRmZiIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iMTYwMCIgaGVpZ2h0PSI0MjAiIGZpbGw9InVybCgjdmVpbCkiLz4KICA8cGF0aCBkPSJNLTEyMCA4MCBDMjIwIDIwIDU2MCAxNTAgODQwIDYwIEMxMDQwIDIwIDEyMDAgMTMwIDE3NDAgNTUgTDE3NDAgMTY1IEMxMjAwIDIzNSAxMDQwIDE0NSA4NDAgMTg1IEM1NjAgMjc1IDIyMCAxNTAgLTEyMCAyMDUgWiIgZmlsbD0idXJsKCNhMSkiLz4KICA8cGF0aCBkPSJNLTEyMCAxNzUgQzI2MCAxMjAgNjAwIDIzMCA4NjAgMTQ1IEMxMDgwIDEwNSAxMjQwIDIwMCAxNzQwIDEzNSBMMTc0MCAyNDUgQzEyNDAgMzAwIDEwODAgMjEwIDg2MCAyNTAgQzYwMCAzNDAgMjYwIDIyMCAtMTIwIDI3NSBaIiBmaWxsPSJ1cmwoI2EyKSIvPgogIDxnIGZpbGw9IiNkZmU5ZWUiPgogICAgPGNpcmNsZSBjeD0iMTUwIiBjeT0iMzMwIiByPSIxLjYiIG9wYWNpdHk9IjAuNTUiLz4KICAgIDxjaXJjbGUgY3g9IjM4MCIgY3k9IjI5OCIgcj0iMS4yIiBvcGFjaXR5PSIwLjQiLz4KICAgIDxjaXJjbGUgY3g9IjYxMiIgY3k9IjM1MiIgcj0iMS45IiBvcGFjaXR5PSIwLjUiLz4KICAgIDxjaXJjbGUgY3g9Ijg4MCIgY3k9IjI3NiIgcj0iMS4zIiBvcGFjaXR5PSIwLjQyIi8+CiAgICA8Y2lyY2xlIGN4PSIxMTIwIiBjeT0iMzY4IiByPSIxLjUiIG9wYWNpdHk9IjAuNSIvPgogICAgPGNpcmNsZSBjeD0iMTM1MiIgY3k9IjMxMiIgcj0iMS4xIiBvcGFjaXR5PSIwLjM4Ii8+CiAgPC9nPgogIDx0ZXh0IHg9IjQwIiB5PSI0MCIgZm9udC1mYW1pbHk9InVpLW1vbm9zcGFjZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjEyIiBmaWxsPSIjY2ZlNGQ4IiBvcGFjaXR5PSIwLjUiPmF1cm9yYS12ZWlsIOKAlCBieXRlIGNvdW50cyBmcm9tIG15IHNpeCBwdWJsaWMgcmVwb3NpdG9yaWVzPC90ZXh0PgogIDx0ZXh0IHg9IjE1NjAiIHk9IjM5MiIgZm9udC1mYW1pbHk9InVpLW1vbm9zcGFjZSwgbW9ub3NwYWNlIiBmb250LXNpemU9IjEyIiBmaWxsPSIjY2ZlNGQ4IiBvcGFjaXR5PSIwLjQiIHRleHQtYW5jaG9yPSJlbmQiPnRoZSB0d28gY29sdW1ucyBhcmUgbm90IGEgdGllIMK3IDQyLjUlIHRvIDMzLjAlPC90ZXh0Pgo8L3N2Zz4K
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" width="1600" height="420" role="img" aria-label="Two-column table banner for the languages section of my GitHub profile">
+  <defs>
+    <linearGradient id="veil" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0" stop-color="#060b12"/>
+      <stop offset="1" stop-color="#041120"/>
+    </linearGradient>
+    <linearGradient id="a1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2ee08a" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#2ee08a" stop-opacity="0.42"/>
+      <stop offset="0.7" stop-color="#3aa7ff" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#3aa7ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7b4dff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2ee08a" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#7b4dff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="420" fill="url(#veil)"/>
+  <path d="M-120 80 C220 20 560 150 840 60 C1040 20 1200 130 1740 55 L1740 165 C1200 235 1040 145 840 185 C560 275 220 150 -120 205 Z" fill="url(#a1)"/>
+  <path d="M-120 175 C260 120 600 230 860 145 C1080 105 1240 200 1740 135 L1740 245 C1240 300 1080 210 860 250 C600 340 260 220 -120 275 Z" fill="url(#a2)"/>
+  <g fill="#dfe9ee">
+    <circle cx="150" cy="330" r="1.6" opacity="0.55"/>
+    <circle cx="380" cy="298" r="1.2" opacity="0.4"/>
+    <circle cx="612" cy="352" r="1.9" opacity="0.5"/>
+    <circle cx="880" cy="276" r="1.3" opacity="0.42"/>
+    <circle cx="1120" cy="368" r="1.5" opacity="0.5"/>
+    <circle cx="1352" cy="312" r="1.1" opacity="0.38"/>
+  </g>
+  <text x="40" y="40" font-family="ui-monospace, monospace" font-size="12" fill="#cfe4d8" opacity="0.5">aurora-veil — byte counts from my six public repositories</text>
+  <text x="1560" y="392" font-family="ui-monospace, monospace" font-size="12" fill="#cfe4d8" opacity="0.4" text-anchor="end">the two columns are not a tie · 42.5% to 33.0%</text>
+</svg>
