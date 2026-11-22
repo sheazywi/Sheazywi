@@ -63,7 +63,9 @@ Notes and posts at [starbounded.com](https://starbounded.com), [getting-started 
 
 ### how to contribute
 
-Come from a repro: platform, expected vs actual, logs, and a fix if you have one. Repro-first matters because Vulkan validation layers and driver quirks are at the bottom of the stack. [Open an issue](https://github.com/starbounded-dev/LuxEngine/issues) — the good-first-issue label and CONTRIBUTING.md aren't set yet. Branches follow `feature/<thing>` and merge into `dev`; I review on the machine, five to ten minutes per commit, so push small and land the diff clean.
+Come from a repro: platform, expected vs actual, the log output, and a fix if you have one. Repro-first matters because Vulkan validation layers and driver behaviour sit at the bottom of the stack. Branches follow `feature/<thing>` and merge into `dev`; I review on the machine, five to ten minutes per commit, so push small and land the diff clean.
+
+Start with a [good first issue](https://github.com/starbounded-dev/LuxEngine/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) — the label is live, nothing is tagged on it yet. Read [CODE_OF_CONDUCT.md](https://github.com/starbounded-dev/LuxEngine/blob/dev/CODE_OF_CONDUCT.md) first, it is short; CONTRIBUTING.md isn't in the repo yet.
 
 ### what I maintain
 
