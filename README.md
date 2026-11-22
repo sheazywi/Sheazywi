@@ -6,7 +6,7 @@ I'm building LuxEngine, a C++20 game engine on Vulkan for Windows and Linux, and
 
 ### The deepest layers
 
-- **[LuxEngine](https://github.com/starbounded-dev/LuxEngine):** C++20 game engine on Vulkan. Deferred clustered PBR, a render graph that skips disabled passes, miniaudio-based spatial audio with "Soundwave" acoustics, Jolt 3D physics and Box2D 2D, C# scripts on .NET 10 with hot reload. GPL-3.0.
+- **[LuxEngine](https://github.com/starbounded-dev/LuxEngine):** C++20 game engine on Vulkan. Deferred clustered PBR, a render graph that skips disabled passes, miniaudio-based spatial audio with "Soundwave" acoustics, Jolt 3D physics and Box2D 2D, C# scripts on .NET 10 with hot reload. Apache-2.0.
 - **[crew-emblem-tracer](https://github.com/sheazywi/crew-emblem-tracer):** traces any image into a GTA Online crew emblem you can import straight into Rockstar's emblem editor.
 - **[actions-runner-console](https://github.com/sheazywi/actions-runner-console):** local dashboard for the GitHub Actions runners behind LuxEngine's CI, on Linux and Windows.
 - **[pi-watchdog](https://github.com/sheazywi/pi-watchdog):** a Raspberry Pi 3B that checks the two Proxmox VMs hosting those runners every 30 seconds and raises alerts through Hermes.
@@ -29,7 +29,7 @@ I'm building LuxEngine, a C++20 game engine on Vulkan for Windows and Linux, and
 
 | Project | Stack | State |
 | --- | --- | --- |
-| [LuxEngine](https://github.com/starbounded-dev/LuxEngine) | C++20 · Vulkan · GLSL · C# | GPL-3.0, 90 open issues |
+| [LuxEngine](https://github.com/starbounded-dev/LuxEngine) | C++20 · Vulkan · GLSL · C# | Apache-2.0, 90 open issues |
 | [crew-emblem-tracer](https://github.com/sheazywi/crew-emblem-tracer) | TypeScript · Canvas | shipped |
 | [actions-runner-console](https://github.com/sheazywi/actions-runner-console) | Python · PowerShell · Shell | 2 stars, runs LuxEngine's CI |
 | [pi-watchdog](https://github.com/sheazywi/pi-watchdog) | Python · systemd | one 30-second loop over two VMs |
@@ -38,9 +38,9 @@ I'm building LuxEngine, a C++20 game engine on Vulkan for Windows and Linux, and
 ### How to contribute
 
 1. Pick any open issue on [LuxEngine](https://github.com/starbounded-dev/LuxEngine/issues). That tracker is where the engine's next work is.
-2. Work on a branch named `feature/<thing>`, the pattern the repo's own branches follow.
+2. Work on a branch named `feature/<thing>`, the pattern the repo's own branches follow, and merge into `dev`, the branch the engine lives on.
 3. LuxEngine is C++20 on Vulkan. Make it build on Windows or Linux before you open a PR.
-4. Anything merged into LuxEngine falls under its GPL-3.0 licence, so read the licence first.
+4. Anything merged into LuxEngine falls under its Apache-2.0 licence, so read the licence first.
 
 Engine questions go on LuxEngine's issue tracker. Everything else, email me at [sheazywi@starbounded.com](mailto:sheazywi@starbounded.com).
 
@@ -57,3 +57,19 @@ Engine questions go on LuxEngine's issue tracker. Everything else, email me at [
 | C# scripts on .NET 10 with hot reload | this profile repo, CC0, self-hosted SVG banners |
 
 > I've been building in the open since 2023. The engine I keep describing here is unfinished because it's the one I'm still working on.
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheazywi/Sheazywi/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sheazywi/Sheazywi/output/snake.svg" />
+  <img alt="Snake eating the contribution graph" src="https://raw.githubusercontent.com/sheazywi/Sheazywi/output/snake.svg" width="100%" />
+</picture>
+
+### Pier-Olivier Boulianne
+
+> *building LuxEngine in the open.*
+
+The snake above is generated fresh every day by an Action in this repo, eating real commits, not props.
+
+[starbounded.com](https://starbounded.com) · [@sheazywi](https://x.com/sheazywi)
