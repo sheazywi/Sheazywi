@@ -22,6 +22,10 @@ at [Starbounded](https://github.com/starbounded-dev), near Quebec City.
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sheazywi/Sheazywi/main/assets/aurora-veil.svg" alt="Pier-Olivier Boulianne — engines and developer tooling built in the open at Starbounded" width="100%" />
+</p>
+
 <table align="center" width="80%" border="0">
   <tr>
     <td valign="top" align="left">
@@ -44,15 +48,21 @@ Notes and posts at [starbounded.com](https://starbounded.com), [getting-started 
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sheazywi/Sheazywi/main/assets/strata-core.svg" alt="Pier-Olivier Boulianne — six years of commits as a drilled core sample, 1,258 commits counted on the nine repos I own plus LuxEngine on its dev branch" width="100%" />
+</p>
+
 ### the log
 
-2023: opened [Starbounded](https://github.com/starbounded-dev), started building in the open.
+Commit counts below are commits authored by me across the nine repos I own plus LuxEngine on its `dev` branch: 2021 zero, 2022 zero, 2023 one, 2024 108, 2025 239, 2026 910, so 1,258 in total.
 
-2024: the work went public, [starbounded.github.io](https://starbounded.github.io) plus the [test-dev](https://github.com/starbounded-dev/test-dev) and [archive](https://github.com/starbounded-dev/archive) playgrounds, and [sheazywi.github.io](https://sheazywi.github.io).
+2023: opened [Starbounded](https://github.com/starbounded-dev), started building in the open. One commit that year.
 
-2025: one repo, [q511](https://github.com/sheazywi/q511), a Vite + React + Tailwind app that watches Québec 511's live road cameras from home over HLS streams.
+2024: the work went public, [starbounded.github.io](https://starbounded.github.io) plus the [test-dev](https://github.com/starbounded-dev/test-dev) and [archive](https://github.com/starbounded-dev/archive) playgrounds, and [sheazywi.github.io](https://sheazywi.github.io). 108 commits.
 
-2026: three runner tools in one day: [actions-runner-console](https://github.com/sheazywi/actions-runner-console) for self-hosted runner fleets, [pi-watchdog](https://github.com/sheazywi/pi-watchdog) keeping a physical eye on the CI VMs they run, and a GTA crew emblem tracer. LuxEngine got the hlb HZB occlusion fix, the tile-grid render-graph viewport, two sample games, and versioned the project format.
+2025: one repo, [q511](https://github.com/sheazywi/q511), a Vite + React + Tailwind app that watches Québec 511's live road cameras from home over HLS streams. 239 commits.
+
+2026: three runner tools in one day: [actions-runner-console](https://github.com/sheazywi/actions-runner-console) for self-hosted runner fleets, [pi-watchdog](https://github.com/sheazywi/pi-watchdog) keeping a physical eye on the CI VMs they run, and a GTA crew emblem tracer. LuxEngine got the hlb HZB occlusion fix, the tile-grid render-graph viewport, two sample games, and versioned the project format. 910 commits.
 
 ### deepest layers
 
@@ -60,6 +70,10 @@ Notes and posts at [starbounded.com](https://starbounded.com), [getting-started 
 - **actions-runner-console** — dashboard for self-hosted GitHub Actions runners, so a runner fleet runs like the CI I'm replacing.
 
 — [starbounded.com](https://starbounded.com) · [@sheazywi](https://twitter.com/sheazywi)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sheazywi/Sheazywi/main/assets/oss-maintainer.svg" alt="Pier-Olivier Boulianne — three projects maintained: LuxEngine, actions-runner-console, pi-watchdog" width="100%" />
+</p>
 
 ### how to contribute
 
@@ -69,9 +83,9 @@ Start with a [good first issue](https://github.com/starbounded-dev/LuxEngine/iss
 
 ### what I maintain
 
-- **LuxEngine** — the C++20 Vulkan engine, Apache-2.0. Development lands on the `dev` branch.
-- **actions-runner-console** — the runner dashboard.
-- **pi-watchdog** — the Raspberry Pi keeping an eye on the CI VMs.
+- **LuxEngine** — the C++20 Vulkan engine, Apache-2.0, 1 star and 90 open issues, latest release `2025.1`. Development lands on the `dev` branch.
+- **actions-runner-console** — the runner dashboard, MIT, 2 stars, issues all closed.
+- **pi-watchdog** — the Raspberry Pi keeping an eye on the CI VMs, no license file yet, 1 star.
 
 — [starbounded.com](https://starbounded.com) · [@sheazywi](https://twitter.com/sheazywi)
 
