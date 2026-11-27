@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sheazywi/Sheazywi/main/assets/v3/expertise.svg" alt="Expertise: C++20, Vulkan, Python, React, Vite, Tailwind, GitHub Actions, Raspberry Pi" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/sheazywi/Sheazywi/main/assets/v3/strata-core.svg" alt="Commits per year as a core sample: 2023 1, 2024 108, 2025 239, 2026 910, 1,258 in total" width="100%" />
 </p>
 
